@@ -55,7 +55,7 @@ a:hover {
 .top-container {
   background-color: #E4F9F5;
   position: relative;
-  padding-top: 150px;
+  padding-top: 200px;
 }
 
 .middle-container {
@@ -85,6 +85,10 @@ margin-top: 30px;
   position: absolute;
   left: 250px;
   bottom: 300px;
+}
+
+.mountain {
+  padding-top: 100px;
 }
 
 .coding-img {
